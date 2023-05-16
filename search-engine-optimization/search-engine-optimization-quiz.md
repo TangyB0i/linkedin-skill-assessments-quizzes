@@ -816,3 +816,10 @@
 - [ ] at least five
 - [ ] at least seven
 - [ ] as many as are relevent
+
+#### Q103. All sites should migrate from HTTP to ___
+    
+- [ ] HTSSL
+- [ ] HTML
+- [X] HTTPS
+- [ ] IP4
